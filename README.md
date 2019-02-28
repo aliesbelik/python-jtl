@@ -22,6 +22,4 @@ The typical usage in general looks like this:
 - Uses iterative XML parsing for better performance;
 - Automatically detects the file format (XML or CSV).
 
-## Note
 
-This project was originally exported from https://code.google.com/archive/p/python-jtl/.
