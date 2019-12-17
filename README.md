@@ -2,8 +2,10 @@
 
 > Python module for parsing JMeter test results
 
-[python-jtl](https://code.google.com/p/python-jtl/) provides a module called jtl which can be useful for parsing JMeter
-results (so called JTL files). JTL files can be either of XML or CSV (with or without the fieldnames) file format. jtl module supports both XML and CSV (with and without the fieldnames) file formats.
+**NOTE:** [Original](https://code.google.com/p/python-jtl/) repository [imported by author here](https://code.google.com/archive/p/python-jtl/).
+
+[python-jtl](https://code.google.com/p/python-jtl/) provides a module called **jtl** which can be useful for parsing JMeter
+results (so called JTL files). JTL files can be either of XML or CSV (with or without the fieldnames) file format. **jtl** module supports both XML and CSV (with and without the fieldnames) file formats.
 
 The typical usage in general looks like this:
 
